@@ -1,6 +1,7 @@
 name: sample
 version: 0.0.1
-main: com.chizstudio.misilelaboratory
+main: com.chizstudio.misilelaboratory.borderingsurvival.BorderingSurvival
 api-version: 1.17
 libraries:
   - org.jetbrains.kotlin:kotlin-stdlib:1.6.10
+  - io.github.monun:kommand-core:2.8.1

@@ -1,6 +1,6 @@
 # Misilelab license v1.6
 
-Author information : Sample by MisileLaboratory
+Author information : BorderingSurvival by MisileLaboratory & Cuaak
 
 ## derivative works condition
 
