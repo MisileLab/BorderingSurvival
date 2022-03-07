@@ -18,7 +18,7 @@ repositories {
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.18.2-R0.1-SNAPSHOT")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.6.10")
-    implementation("io.github.monun:kommand-api:2.8.1")
+    implementation("io.github.monun:kommand-api:2.10.0")
 }
 
 project.extra.set("packageName", name.replace("-", ""))
